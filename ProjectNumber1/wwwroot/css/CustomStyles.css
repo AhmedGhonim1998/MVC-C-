@@ -1,0 +1,63 @@
+﻿/* General page styling */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #f7f9fc;
+    margin: 0;
+    padding: 0;
+    color: #333;
+}
+
+/* Container for the Details page */
+.details-container {
+    max-width: 700px;
+    margin: 50px auto;
+    background-color: #fff;
+    padding: 30px 40px;
+    border-radius: 10px;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+}
+
+    /* Header styles */
+    .details-container h1 {
+        text-align: center;
+        color: #2c3e50;
+        margin-bottom: 20px;
+        font-size: 2.5em;
+    }
+
+    .details-container h2 {
+        color: #34495e;
+        margin: 10px 0;
+    }
+
+    .details-container h3 {
+        color: #7f8c8d;
+        margin-bottom: 20px;
+    }
+
+    /* Form styling */
+    .details-container select.form-control {
+        width: 100%;
+        padding: 10px 15px;
+        margin-bottom: 20px;
+        border: 1px solid #bdc3c7;
+        border-radius: 6px;
+        font-size: 1em;
+        background-color: #ecf0f1;
+        transition: all 0.3s ease;
+    }
+
+        .details-container select.form-control:focus {
+            border-color: #3498db;
+            background-color: #fff;
+            outline: none;
+            box-shadow: 0 0 5px rgba(52, 152, 219, 0.5);
+        }
+
+/* Dynamic colored name */
+.d

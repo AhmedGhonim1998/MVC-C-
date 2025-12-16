@@ -1,0 +1,28 @@
+﻿<link rel="stylesheet" href="/css/CustomStyles.css" />
+
+@model Employee
+@{
+    ViewData["Title"] = "Details";
+}
+
+<div class="details-container">
+    <h1>Details</h1>
+    <h2 class="employee-name text-center" style="color:@ViewBag.Color">@Model.Name</h2>
+    <h3 class="text-center">@ViewData["Msg"]</h3>
+    <h2 class="text-center">@(int.Parse(ViewData["Temp"].ToString()) - 10)</h2>
+    <h2 class="text-center">@(ViewBag.Temp - 10)</h2>
+
+    <select class="form-control">
+        @foreach (var item in (List<string>)ViewData["brch"])
+        {
+            <option>@item</option>
+        }
+    </select>
+
+    <select class="form-control">
+        @foreach (var item in ViewBag.brch)
+        {
+            <option>@item</option>
+        }
+    </select>
+</div>
