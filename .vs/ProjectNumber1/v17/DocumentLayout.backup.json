@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\ALEX TOP\\source\\repos\\ASP.Net Projects\\MVC Projects\\ProjectNumber1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{62805F75-6F24-4FA9-90EA-3DBB9BF547EE}|ProjectNumber1\\ProjectNumber1.csproj|c:\\users\\alex top\\source\\repos\\asp.net projects\\mvc projects\\projectnumber1\\projectnumber1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{62805F75-6F24-4FA9-90EA-3DBB9BF547EE}|ProjectNumber1\\ProjectNumber1.csproj|solutionrelative:projectnumber1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{62805F75-6F24-4FA9-90EA-3DBB9BF547EE}|ProjectNumber1\\ProjectNumber1.csproj|c:\\users\\alex top\\source\\repos\\asp.net projects\\mvc projects\\projectnumber1\\projectnumber1\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{62805F75-6F24-4FA9-90EA-3DBB9BF547EE}|ProjectNumber1\\ProjectNumber1.csproj|solutionrelative:projectnumber1\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{62805F75-6F24-4FA9-90EA-3DBB9BF547EE}|ProjectNumber1\\ProjectNumber1.csproj|c:\\users\\alex top\\source\\repos\\asp.net projects\\mvc projects\\projectnumber1\\projectnumber1\\controllers\\departementcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{62805F75-6F24-4FA9-90EA-3DBB9BF547EE}|ProjectNumber1\\ProjectNumber1.csproj|solutionrelative:projectnumber1\\controllers\\departementcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62805F75-6F24-4FA9-90EA-3DBB9BF547EE}|ProjectNumber1\\ProjectNumber1.csproj|c:\\users\\alex top\\source\\repos\\asp.net projects\\mvc projects\\projectnumber1\\projectnumber1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{62805F75-6F24-4FA9-90EA-3DBB9BF547EE}|ProjectNumber1\\ProjectNumber1.csproj|solutionrelative:projectnumber1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{62805F75-6F24-4FA9-90EA-3DBB9BF547EE}|ProjectNumber1\\ProjectNumber1.csproj|c:\\users\\alex top\\source\\repos\\asp.net projects\\mvc projects\\projectnumber1\\projectnumber1\\views\\departement\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -86,11 +90,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\ALEX TOP\\source\\repos\\ASP.Net Projects\\MVC Projects\\ProjectNumber1\\ProjectNumber1\\.gitignore",
+              "RelativeDocumentMoniker": "ProjectNumber1\\.gitignore",
+              "ToolTip": "C:\\Users\\ALEX TOP\\source\\repos\\ASP.Net Projects\\MVC Projects\\ProjectNumber1\\ProjectNumber1\\.gitignore",
+              "RelativeToolTip": "ProjectNumber1\\.gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAF8SURBVDhPjVNLTgJBEG1lwpoFB3GNK9fieA48hD8iwT/ihwgSDAIHgAGXXsEV18CNzL/LquqZdsYM6kteXqcy3fWqpmpNRBgOhyABBEgpAFVKPIMUcYzUyOU\u002BXM/b2qtU3vkSfRjjZTCAMAw1A2LwzdFoBPP5HNqdzuL27n4juibWI\u002BUshBA1DIkhEx9iEorFotgslQqGYbxxAGFEqt1MxmPWJLbLZdZ\u002Bv89q5PMFPiTR6z2zdaxR0fXA0XTBcVywkb4fwHXjRteecIDNQ7UmExVYAdPcxYaqclN46na5WenMKjtlVnTYwcXlVYaDqImW9beD5N/TeGy32QHXm6hZ03ZgiSQHp2fnWQ4oBmJqWSqwAqZpZjt4aLXAD4J0VqyZsmoubfB8H2r1eoaD6NXZ9HcHO\u002BSA3f4AjifXl8rItOETM8ckB9WTWpYD9RdeZ1PWVWAHWXPQaDb59f/w8LiqHeh1pvGkCaP6qB8yXusoxmuNZ7XmII4O9vGuEF86osuDYRkpYQAAAABJRU5ErkJggg==",
+              "WhenOpened": "2025-12-16T18:40:50.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\ALEX TOP\\source\\repos\\ASP.Net Projects\\MVC Projects\\ProjectNumber1\\ProjectNumber1\\Views\\Departement\\Index.cshtml",
               "RelativeDocumentMoniker": "ProjectNumber1\\Views\\Departement\\Index.cshtml",
@@ -103,7 +120,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "ProContextModelSnapshot.cs",
               "DocumentMoniker": "C:\\Users\\ALEX TOP\\source\\repos\\ASP.Net Projects\\MVC Projects\\ProjectNumber1\\ProjectNumber1\\Migrations\\ProContextModelSnapshot.cs",
               "RelativeDocumentMoniker": "ProjectNumber1\\Migrations\\ProContextModelSnapshot.cs",
@@ -116,7 +133,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "20251216173155_db2.cs",
               "DocumentMoniker": "C:\\Users\\ALEX TOP\\source\\repos\\ASP.Net Projects\\MVC Projects\\ProjectNumber1\\ProjectNumber1\\Migrations\\20251216173155_db2.cs",
               "RelativeDocumentMoniker": "ProjectNumber1\\Migrations\\20251216173155_db2.cs",
@@ -135,19 +152,19 @@
               "RelativeDocumentMoniker": "ProjectNumber1\\Controllers\\DepartementController.cs",
               "ToolTip": "C:\\Users\\ALEX TOP\\source\\repos\\ASP.Net Projects\\MVC Projects\\ProjectNumber1\\ProjectNumber1\\Controllers\\DepartementController.cs",
               "RelativeToolTip": "ProjectNumber1\\Controllers\\DepartementController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-16T17:54:49.125Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\ALEX TOP\\source\\repos\\ASP.Net Projects\\MVC Projects\\ProjectNumber1\\ProjectNumber1\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "ProjectNumber1\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\ALEX TOP\\source\\repos\\ASP.Net Projects\\MVC Projects\\ProjectNumber1\\ProjectNumber1\\Views\\Home\\Index.cshtml*",
-              "RelativeToolTip": "ProjectNumber1\\Views\\Home\\Index.cshtml*",
+              "ToolTip": "C:\\Users\\ALEX TOP\\source\\repos\\ASP.Net Projects\\MVC Projects\\ProjectNumber1\\ProjectNumber1\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ProjectNumber1\\Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-12-15T22:27:39.721Z",
@@ -155,7 +172,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "20251216165836_init.cs",
               "DocumentMoniker": "C:\\Users\\ALEX TOP\\source\\repos\\ASP.Net Projects\\MVC Projects\\ProjectNumber1\\ProjectNumber1\\Migrations\\20251216165836_init.cs",
               "RelativeDocumentMoniker": "ProjectNumber1\\Migrations\\20251216165836_init.cs",
@@ -168,7 +185,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "ProContext.cs",
               "DocumentMoniker": "C:\\Users\\ALEX TOP\\source\\repos\\ASP.Net Projects\\MVC Projects\\ProjectNumber1\\ProjectNumber1\\Models\\ProContext.cs",
               "RelativeDocumentMoniker": "ProjectNumber1\\Models\\ProContext.cs",
@@ -181,7 +198,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Departement.cs",
               "DocumentMoniker": "C:\\Users\\ALEX TOP\\source\\repos\\ASP.Net Projects\\MVC Projects\\ProjectNumber1\\ProjectNumber1\\Models\\Departement.cs",
               "RelativeDocumentMoniker": "ProjectNumber1\\Models\\Departement.cs",
@@ -194,7 +211,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "Employee.cs",
               "DocumentMoniker": "C:\\Users\\ALEX TOP\\source\\repos\\ASP.Net Projects\\MVC Projects\\ProjectNumber1\\ProjectNumber1\\Models\\Employee.cs",
               "RelativeDocumentMoniker": "ProjectNumber1\\Models\\Employee.cs",
@@ -207,7 +224,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "ShowDetails.cshtml",
               "DocumentMoniker": "C:\\Users\\ALEX TOP\\source\\repos\\ASP.Net Projects\\MVC Projects\\ProjectNumber1\\ProjectNumber1\\Views\\Student\\ShowDetails.cshtml",
               "RelativeDocumentMoniker": "ProjectNumber1\\Views\\Student\\ShowDetails.cshtml",
@@ -220,7 +237,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "ShowAll.cshtml",
               "DocumentMoniker": "C:\\Users\\ALEX TOP\\source\\repos\\ASP.Net Projects\\MVC Projects\\ProjectNumber1\\ProjectNumber1\\Views\\Student\\ShowAll.cshtml",
               "RelativeDocumentMoniker": "ProjectNumber1\\Views\\Student\\ShowAll.cshtml",
@@ -233,7 +250,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "StudentController.cs",
               "DocumentMoniker": "C:\\Users\\ALEX TOP\\source\\repos\\ASP.Net Projects\\MVC Projects\\ProjectNumber1\\ProjectNumber1\\Controllers\\StudentController.cs",
               "RelativeDocumentMoniker": "ProjectNumber1\\Controllers\\StudentController.cs",
@@ -246,7 +263,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "StudentBL.cs",
               "DocumentMoniker": "C:\\Users\\ALEX TOP\\source\\repos\\ASP.Net Projects\\MVC Projects\\ProjectNumber1\\ProjectNumber1\\Models\\StudentBL.cs",
               "RelativeDocumentMoniker": "ProjectNumber1\\Models\\StudentBL.cs",
@@ -259,7 +276,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "Student.cs",
               "DocumentMoniker": "C:\\Users\\ALEX TOP\\source\\repos\\ASP.Net Projects\\MVC Projects\\ProjectNumber1\\ProjectNumber1\\Models\\Student.cs",
               "RelativeDocumentMoniker": "ProjectNumber1\\Models\\Student.cs",
@@ -272,7 +289,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "View1.cshtml",
               "DocumentMoniker": "C:\\Users\\ALEX TOP\\source\\repos\\ASP.Net Projects\\MVC Projects\\ProjectNumber1\\ProjectNumber1\\Views\\Home\\View1.cshtml",
               "RelativeDocumentMoniker": "ProjectNumber1\\Views\\Home\\View1.cshtml",
@@ -285,7 +302,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ALEX TOP\\source\\repos\\ASP.Net Projects\\MVC Projects\\ProjectNumber1\\ProjectNumber1\\Program.cs",
               "RelativeDocumentMoniker": "ProjectNumber1\\Program.cs",
@@ -298,7 +315,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "C:\\Users\\ALEX TOP\\source\\repos\\ASP.Net Projects\\MVC Projects\\ProjectNumber1\\ProjectNumber1\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "ProjectNumber1\\Views\\_ViewImports.cshtml",
@@ -311,7 +328,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\ALEX TOP\\source\\repos\\ASP.Net Projects\\MVC Projects\\ProjectNumber1\\ProjectNumber1\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "ProjectNumber1\\Properties\\launchSettings.json",
@@ -324,7 +341,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\ALEX TOP\\source\\repos\\ASP.Net Projects\\MVC Projects\\ProjectNumber1\\ProjectNumber1\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "ProjectNumber1\\Controllers\\HomeController.cs",
