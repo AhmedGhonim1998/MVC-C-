@@ -1,0 +1,28 @@
+﻿@model List<Student>
+
+    <table class="table table-bordered table-hover">
+    @foreach(var item in Model)
+    {
+        <tr>
+            <td>
+                @item.Id
+            </td>
+            <td>
+                @item.Name
+            </td>
+            <td>
+                @item.Faculty
+            </td>
+            <td>
+                <a asp-action="Detail"
+                   asp-controller="Student"
+                   asp-route-id="@item.Id"
+                   class="btn btn-primary">
+                    Details
+                </a>
+            </td>
+        </tr>
+    }
+</table>
+
+
