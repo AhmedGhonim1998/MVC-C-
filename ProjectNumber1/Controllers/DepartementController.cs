@@ -14,5 +14,23 @@ namespace ProjectNumber1.Controllers
                 .ToList();
             return View("index" , departementList);
         }
+
+
+        public IActionResult Add()
+        {
+            return View("Add");
+        }
+
+        public IActionResult SaveAdd(Departement newDeptFromRequest)
+        {
+            if (newDeptFromRequest.Name != null)
+            {
+                context.Departement.Add(newDeptFromRequest);
+                context.SaveChanges();
+                return RedirectToAction("Index");
+            }
+            return View("Add" , newDeptFromRequest);
+        }
     }
+
 }
